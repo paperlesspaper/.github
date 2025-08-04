@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
+Here you find our public repositories and info for the [paperlesspaper eInk Displays](https://paperlesspaper.de/en).
 
-**Here are some ideas to get you started:**
+[paperlesspaper-apps](https://github.com/paperlesspaper/paperlesspaper-apps)🍿
+These are paperlesspaper Integrations, that renders different tools in a suitable size for eInk Displays using a next.js application.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[epd-optimize](https://github.com/Utzel-Butzel/epdoptimize)🌈
+
+A JavaScript library for reducing image colors and dithering them to fit (color) eInk displays with optimal visual quality.
+
