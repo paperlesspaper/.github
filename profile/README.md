@@ -20,6 +20,12 @@ A JavaScript library for reducing image colors and dithering them to fit (color)
 
 This is the battery compartment designed and used in the paperlesspaper paper 7.
 
+### Work-in-progress
+
+[paperlesspaper-web](https://github.com/paperlesspaper/paperlesspaper-web)
+
+The Frontend of the paperlesspaper app (currently work-in-progress).
+
 ### Other
 
 [ProgressiveUI](https://github.com/Polyxo/pui)
