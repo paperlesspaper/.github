@@ -28,6 +28,8 @@ The Frontend of the paperlesspaper app (currently work-in-progress).
 
 ### Other
 
+Other packages we developed for paperlesspaper, which are primarily used on the back-office side.
+
 [ProgressiveUI](https://github.com/Polyxo/pui)
 
 Design system used in the PWA.
