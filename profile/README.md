@@ -22,6 +22,10 @@ This is the battery compartment designed and used in the paperlesspaper paper 7.
 
 ### Work-in-progress
 
+[sample-images](https://github.com/paperlesspaper/sample-images)
+
+These are sample images we are using during development.
+
 [paperlesspaper-web](https://github.com/paperlesspaper/paperlesspaper-web)
 
 The Frontend of the paperlesspaper app (currently work-in-progress).
