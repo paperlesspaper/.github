@@ -14,11 +14,17 @@ These are paperlesspaper Integrations, that renders different tools in a suitabl
 
 A JavaScript library for reducing image colors and dithering them to fit (color) eInk displays with optimal visual quality.
 
+<img src="https://raw.githubusercontent.com/paperlesspaper/paperlesspaper-hardware/refs/heads/main/images/pcb-detail.png" style="width: 500px" />
+
+#### [paperlesspaper-hardware](https://github.com/paperlesspaper/paperlesspaper-hardware)
+
+Contains all the source files for the PCB, hardware, 3D print and assembly using in building paper 7.
+
 <img src="https://makerworld.bblmw.com/makerworld/model/US31f5710b4374d3/design/2025-08-04_75bad575f15e2.jpg?x-oss-process=image/resize,w_1000/format,webp" style="width: 500px" />
 
 #### [3d-printed battery compartment](https://makerworld.com/de/models/1668788-paper-7-battery-compartment) 🖶
 
-This is the battery compartment designed and used in the paperlesspaper paper 7.
+This is the battery compartment designed and used in the paperlesspaper paper 7 as directly printable part.
 
 ### Work-in-progress
 
