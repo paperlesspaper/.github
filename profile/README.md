@@ -14,7 +14,7 @@ These are paperlesspaper Integrations, that renders different tools in a suitabl
 
 A JavaScript library for reducing image colors and dithering them to fit (color) eInk displays with optimal visual quality.
 
-<img src="https://raw.githubusercontent.com/paperlesspaper/paperlesspaper-hardware/refs/heads/main/images/pcb-detail.png" style="width: 500px" />
+<img src="https://raw.githubusercontent.com/paperlesspaper/paperlesspaper-hardware/refs/heads/main/images/paper7/pcb-detail.png" style="width: 500px" />
 
 #### [paperlesspaper-hardware](https://github.com/paperlesspaper/paperlesspaper-hardware)
 
