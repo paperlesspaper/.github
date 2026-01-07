@@ -42,10 +42,13 @@ This is the battery compartment designed and used in the paperlesspaper paper 7 
 
 These are sample images we are using during development.
 
+[paperlesspaper-art](https://github.com/paperlesspaper/paperlesspaper-art)
+
+Art gallery + scraper tooling for curating images/icons for paperlesspaper.
+
 [paperlesspaper-web](https://github.com/paperlesspaper/paperlesspaper-web)
 
 The Frontend of the paperlesspaper app (currently work-in-progress).
-
 ### Other
 
 Other packages we developed for paperlesspaper, which are primarily used on the back-office side.
