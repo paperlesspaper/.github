@@ -10,6 +10,7 @@ Here you find our public repositories and info for the [paperlesspaper eInk Disp
 | [`paperlesspaper-apps`](https://github.com/paperlesspaper/paperlesspaper-apps) | 🟡 **beta** |
 | [`paperlesspaper-firmware`](https://github.com/paperlesspaper/paperlesspaper-firmware) | 🟡 **beta** |
 | [`sample-images`](https://github.com/paperlesspaper/sample-images) | 🟢 **ready** |
+| [`paperlesspaper-art`](https://github.com/paperlesspaper/paperlesspaper-art) | 🟢 **ready** |
 
 <img src="https://paperlesspaper.de/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fwirewire%2Fimage%2Fupload%2FIMG_3151-Bearbeitet.jpg.jpg&w=2048&h=700&q=75" style="width: 500px;" />
 
