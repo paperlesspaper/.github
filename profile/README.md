@@ -11,6 +11,7 @@ Here you find our public repositories and info for the [paperlesspaper eInk Disp
 | [`paperlesspaper-firmware`](https://github.com/paperlesspaper/paperlesspaper-firmware) | 🟡 **beta** |
 | [`sample-images`](https://github.com/paperlesspaper/sample-images) | 🟢 **ready** |
 | [`paperlesspaper-art`](https://github.com/paperlesspaper/paperlesspaper-art) | 🟢 **ready** |
+| [`paperlessprinter`](https://github.com/paperlesspaper/paperlessprinter) | 🟢 **ready** |
 
 <img src="https://paperlesspaper.de/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fwirewire%2Fimage%2Fupload%2FIMG_3151-Bearbeitet.jpg.jpg&w=2048&h=700&q=75" style="width: 500px;" />
 
@@ -35,6 +36,12 @@ Contains all the source files for the PCB, hardware, 3D print and assembly using
 #### [3d-printed battery compartment](https://makerworld.com/de/models/1668788-paper-7-battery-compartment) 🖶
 
 This is the battery compartment designed and used in the paperlesspaper paper 7 as directly printable part.
+
+<img src="https://raw.githubusercontent.com/paperlesspaper/paperlessprinter/refs/heads/main/paperlessprinter.jpg" style="width: 500px" />
+
+#### [paperlessprinter](https://github.com/paperlesspaper/paperlessprinter) 🖶
+
+Why should you print to paper? Just print to your ePaper Display!
 
 ### Work-in-progress
 
