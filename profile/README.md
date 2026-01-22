@@ -37,7 +37,7 @@ Contains all the source files for the PCB, hardware, 3D print and assembly using
 
 This is the battery compartment designed and used in the paperlesspaper paper 7 as directly printable part.
 
-<img src="https://raw.githubusercontent.com/paperlesspaper/paperlessprinter/refs/heads/main/paperlessprinter.jpg" style="width: 500px" />
+<img src="https://raw.githubusercontent.com/paperlesspaper/paperlessprinter/main/docs/paperlessprinter.jpg" style="width: 500px" />
 
 #### [paperlessprinter](https://github.com/paperlesspaper/paperlessprinter) 🖶
 
