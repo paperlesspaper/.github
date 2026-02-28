@@ -6,7 +6,7 @@ Here you find our public repositories and info for the [paperlesspaper eInk Disp
 | --- | --- |
 | [`paperlesspaper-hardware`](https://github.com/paperlesspaper/paperlesspaper-hardware) | 🟢 **ready** |
 | [`epd-optimize`](https://github.com/Utzel-Butzel/epdoptimize) | 🟢 **ready** |
-| [`paperlesspaper-web`](https://github.com/paperlesspaper/paperlesspaper-web) | ⚪ **to be released** |
+| [`paperlesspaper-web`](https://github.com/paperlesspaper/paperlesspaper-web) | ⚪ **beta** |
 | [`paperlesspaper-apps`](https://github.com/paperlesspaper/paperlesspaper-apps) | 🟡 **beta** |
 | [`paperlesspaper-firmware`](https://github.com/paperlesspaper/paperlesspaper-firmware) | 🟡 **beta** |
 | [`sample-images`](https://github.com/paperlesspaper/sample-images) | 🟢 **ready** |
