@@ -9,7 +9,7 @@ Here you find our public repositories and info for the [paperlesspaper eInk Disp
 | [`paperlesspaper-web`](https://github.com/paperlesspaper/paperlesspaper-web) | 🟡 **beta** |
 | [`paperlesspaper-apps`](https://github.com/paperlesspaper/paperlesspaper-apps) | 🟡 **beta** |
 | [`paperlesspaper-firmware`](https://github.com/paperlesspaper/paperlesspaper-firmware) | 🟡 **beta** |
-| [`paperlesspaper-docs`](https://github.com/paperlesspaper/paperlesspaper-docs) | 🟡 **alpha** |
+| [`paperlesspaper-docs`](https://github.com/paperlesspaper/paperlesspaper-docs) | 🟡 **alpha** **new** 🎉🎉🎉|
 | [`sample-images`](https://github.com/paperlesspaper/sample-images) | 🟢 **ready** |
 | [`paperlesspaper-art`](https://github.com/paperlesspaper/paperlesspaper-art) | 🟢 **ready** |
 | [`paperlessprinter`](https://github.com/paperlesspaper/paperlessprinter) | 🟢 **ready** |
