@@ -14,8 +14,6 @@ Here you find our public repositories and info for the [paperlesspaper eInk Disp
 | [`paperlesspaper-art`](https://github.com/paperlesspaper/paperlesspaper-art) | 🟢 **ready** |
 | [`paperlessprinter`](https://github.com/paperlesspaper/paperlessprinter) | 🟢 **ready** |
 
-<img src="https://res.cloudinary.com/wirewire/image/upload/IMG_3151-Bearbeitet.jpg.jpg?w=1280&q=75" style="width: 500px;" />
-
 #### [paperlesspaper-apps](https://github.com/paperlesspaper/paperlesspaper-apps) 🍿
 
 These are paperlesspaper Integrations, that renders different tools in a suitable size for eInk Displays using a next.js application.
