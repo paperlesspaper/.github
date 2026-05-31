@@ -14,7 +14,7 @@ Here you find our public repositories and info for the [paperlesspaper eInk Disp
 | [`paperlesspaper-art`](https://github.com/paperlesspaper/paperlesspaper-art) | 🟢 **ready** |
 | [`paperlessprinter`](https://github.com/paperlesspaper/paperlessprinter) | 🟢 **ready** |
 
-<img src="https://paperlesspaper.de/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fwirewire%2Fimage%2Fupload%2FIMG_3151-Bearbeitet.jpg.jpg&w=2048&h=700&q=75" style="width: 500px;" />
+<img src="https://res.cloudinary.com/wirewire/image/upload/IMG_3151-Bearbeitet.jpg.jpg?w=2048&h=700&q=75" style="width: 500px;" />
 
 #### [paperlesspaper-apps](https://github.com/paperlesspaper/paperlesspaper-apps) 🍿
 
