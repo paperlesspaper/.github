@@ -5,11 +5,13 @@ Here you find our public repositories and info for the [paperlesspaper eInk Disp
 | Repository | Status |
 | --- | --- |
 | [`paperlesspaper-hardware`](https://github.com/paperlesspaper/paperlesspaper-hardware) | 🟢 **ready** |
-| [`epd-optimize`](https://github.com/Utzel-Butzel/epdoptimize) | 🟢 **ready** |
+| [`epd-optimize`](https://github.com/paperlesspaper/epdoptimize) | 🟢 **ready** |
 | [`paperlesspaper-web`](https://github.com/paperlesspaper/paperlesspaper-web) | 🟡 **beta** |
 | [`paperlesspaper-apps`](https://github.com/paperlesspaper/paperlesspaper-apps) | 🟡 **beta** |
 | [`paperlesspaper-firmware`](https://github.com/paperlesspaper/paperlesspaper-firmware) | 🟢 **ready** |
-| [`paperlesspaper-offline-firmware`](https://github.com/paperlesspaper/paperlesspaper-firmware-offline) | 🟡 **beta** |
+| [`paperlesspaper-firmware-offline`](https://github.com/paperlesspaper/paperlesspaper-firmware-offline) | 🟡 **beta** |
+| [`integrations`](https://github.com/paperlesspaper/integrations) | 🟡 **beta** **new** |
+| [`openintegration`](https://github.com/paperlesspaper/openintegration) | 🟡 **beta** **new** |
 | [`paperlesspaper-docs`](https://github.com/paperlesspaper/paperlesspaper-docs) | 🟡 **alpha** **new** 🎉🎉🎉|
 | [`sample-images`](https://github.com/paperlesspaper/sample-images) | 🟢 **ready** |
 | [`paperlesspaper-art`](https://github.com/paperlesspaper/paperlesspaper-art) | 🟢 **ready** |
@@ -19,9 +21,17 @@ Here you find our public repositories and info for the [paperlesspaper eInk Disp
 
 These are paperlesspaper Integrations, that renders different tools in a suitable size for eInk Displays using a next.js application.
 
-<img src="https://raw.githubusercontent.com/Utzel-Butzel/epdoptimize/refs/heads/main/intro-image.jpg" style="width: 500px" />
+<img src="https://raw.githubusercontent.com/paperlesspaper/epdoptimize/refs/heads/main/intro-image.jpg" style="width: 500px" />
 
-#### [epd-optimize](https://github.com/Utzel-Butzel/epdoptimize) 🌈
+#### [openintegration](https://github.com/paperlesspaper/openintegration) 🧩
+
+Tiny helper toolkit and local CLI for static paperlesspaper OpenIntegration pages.
+
+#### [integrations](https://github.com/paperlesspaper/integrations) 🧱
+
+Docker-ready collection of paperlesspaper Open Integrations. Each integration exposes a manifest, a render page, and optionally a settings page or server-side data route.
+
+#### [epd-optimize](https://github.com/paperlesspaper/epdoptimize) 🌈
 
 A JavaScript library for reducing image colors and dithering them to fit (color) eInk displays with optimal visual quality.
 
@@ -56,6 +66,11 @@ Art gallery + scraper tooling for curating images/icons for paperlesspaper.
 [paperlesspaper-web](https://github.com/paperlesspaper/paperlesspaper-web)
 
 The Frontend of the paperlesspaper app (currently work-in-progress).
+
+[paperlesspaper-firmware-offline](https://github.com/paperlesspaper/paperlesspaper-firmware-offline)
+
+Offline-first firmware for ESP32-C6 based paperlesspaper displays with Web-BLE configuration, local image upload, WiFi image downloads, and OTA updates.
+
 ### Other
 
 Other packages we developed for paperlesspaper, which are primarily used on the back-office side.
